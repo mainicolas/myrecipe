@@ -1,7 +1,12 @@
 La Pizza
 (from https://en.wikipedia.org)
 
-Pizza is a traditional Italian dish consisting of a yeasted flatbread typically
+
+Cailloux est le pluriel du mot caillou, il fait partie des sept mots de la langue 
+française finissant en -ou et ayant un pluriel irrégulier (bijoux, cailloux, choux, 
+genoux, hiboux, joujoux, poux).
+
+Pizza-man is a traditional Italian dish consisting of a yeasted flatbread typically
 topped with tomato sauce and cheese and baked in an oven. It can also be topped
 with additional vegetables, meats, and condiments, and can be made without
 cheese. The term pizza was first recorded in the 10th century, in a Latin
