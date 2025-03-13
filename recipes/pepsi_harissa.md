@@ -1,5 +1,7 @@
 ### **Poulpe Caramélisé au Pepsi et Harissa**  
 
+![poulpe](recipes/523236_E_01_FPP.jpg)
+
 #### **Ingrédients (pour 2 personnes) :**  
 - 1 poulpe (500 g)  
 - 33 cl de Pepsi  
